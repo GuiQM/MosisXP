@@ -134,3 +134,8 @@ a.btn.btn-lg.btn-primary:hover {
 #teste3 p   {
     width: 70%;
 }
+
+#botoes-final   {
+    display: flex;
+    justify-content: space-between;
+}
