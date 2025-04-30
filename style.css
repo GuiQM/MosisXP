@@ -3,7 +3,7 @@ body {
     text-align: justify;
 }
 
-#Item1 {
+#pg1 {
     background-image: url("https://i.ytimg.com/vi/Wd7-HH-hlc8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwLGYxM1yUQPLZt6C2n2nws8HIqA");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -26,14 +26,14 @@ footer {
     color: blueviolet;
 }
 
-#Item2 {
+#pg2 {
     background-image: url("./img/userGuide.jpeg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-y: -450px;
 }
 
-#Item3 {
+#pg3 {
     background-image: url("./img/teste.webp");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -88,13 +88,13 @@ a.btn.btn-lg.btn-primary:hover {
     text-align: center;
 }
 
-#text1 {
+#desenvolvimento {
     padding: 50px;
     margin-top: 0px;
     padding-top: 0px;
 }
 
-#text1 h2 {
+#desenvolvimento h2 {
     margin-top: 0px;
     padding-top: 0px;
 }
@@ -131,7 +131,7 @@ a.btn.btn-lg.btn-primary:hover {
     justify-content: center;
 }
 
-#teste3 p   {
+#guia p   {
     width: 70%;
 }
 
